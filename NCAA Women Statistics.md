@@ -11,7 +11,7 @@ Link : https://data.world/makeovermonday/2023w11
 
 # Goal
 
-To get the insights about Which teams/conferences/divisions have the most first-year players? Which have the most seniors & graduate students in the NCAA womens team and how talll are the women players i each NCA team
+To get the insights about Which teams/conferences/divisions have the most first-year players? Which have the most seniors & graduate students in the NCAA womens team and how tall are the women players in each NCA team?
 
 # Insights
 - Most of the Players in the NCAA are about 5 foot 8 inches and 6 foot 1 inches tall
