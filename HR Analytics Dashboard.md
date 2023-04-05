@@ -9,4 +9,6 @@ This experience allowed me to learn new skills and incorporate advanced features
 
 Link : https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187
 
+# Interactive Dashboard
 
+Link: https://public.tableau.com/app/profile/vinay3285/viz/HRANALATICSDASHBOARD/Dashboard2?publish=yes
