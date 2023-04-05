@@ -1,7 +1,8 @@
 # NCAA WOMEN STATISTICS
 This Project is taken from the Make Over Monday (MOM) challenge from the tableau community posted on 13-03-2023.
 
-![NCAA Women Statistics](https://user-images.githubusercontent.com/91108341/229926701-650dadbe-bd25-4805-991c-401fa5d21ba7.png)
+![NCAA Women Statistics](https://user-images.githubusercontent.com/91108341/230158396-b1f58cbb-0db8-4b05-a6b6-fc8c8fa15cde.png)
+
 
 # Dataset:
  
