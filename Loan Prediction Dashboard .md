@@ -9,7 +9,8 @@ To predict the chances of loan approval for the customers and if a loan was good
 # Dataset and Attributes
 
 There are 3 different datasets for both train and test.
-Link : https://zindi.africa/competitions/data-science-nigeria-challenge-1-loan-default-prediction/data
+
+- Link : https://zindi.africa/competitions/data-science-nigeria-challenge-1-loan-default-prediction/data
 
 # a) Demographic data (traindemographics.csv)
 
@@ -63,4 +64,6 @@ This dataset contains all previous loans that the customer had prior to the loan
 - Clients with minimum Primary education has the highest chances 
 - Clients with Permanent Jobs are more likely to apply loans and contractors are less likely to apply loans
 
+# Interactive Dashboard
+Link: https://public.tableau.com/app/profile/vinay3285/viz/Capstoneproject_16779629190470/LoanPrediction?publish=yes
 
