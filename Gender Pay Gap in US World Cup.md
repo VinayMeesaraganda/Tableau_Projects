@@ -2,7 +2,8 @@
 
 This Tableau project is taken from the Make Over Monday (MOM) Challenge from the tableau Community
 
-![GenderPay](https://user-images.githubusercontent.com/91108341/230528456-5d414ed2-d40e-4cc6-b777-d5b65b275627.png)
+![GenderPay](https://user-images.githubusercontent.com/91108341/230648340-5810ad6a-f137-4582-8a60-ca4779a40ef7.png)
+
 
 # Goal:
 
