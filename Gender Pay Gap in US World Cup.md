@@ -11,3 +11,7 @@ To Analyse the pay gap between the gender in the US World Cup Bonuses
 
 # Dataset :
 link: https://data.world/makeovermonday/2023w13
+
+# Link to interactive dashboard
+
+link : https://public.tableau.com/app/profile/vinay3285/viz/GenderPayGapInUsWorldCup/Dashboard1
